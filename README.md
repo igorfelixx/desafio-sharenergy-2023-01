@@ -8,7 +8,7 @@ Este é o repositório do desafio para vaga *DEV Back-end JR*, da empresa *Share
   - [NodeJS](https://nodejs.org/en/download)
 
 ## <a id="iniciando"></a>Como Iniciar passo a passo
-  1. Baixe o projeto utilizando o comando `git clone https://github.com/jgabrielfes/sharenergy.git`;
+  1. Baixe o projeto utilizando o comando `git clone https://github.com/igorfelixx/desafio-sharenergy-2023-01.git`;
   2. Acesse o diretório da aplicação com o prompt de comando ou o terminal do *VSCODE*;
   3. Execute no terminal o comando para instalação das dependências `npm install`;
   4. Utilize o comando `npm run start_dev` para inicializar o projeto completo;
