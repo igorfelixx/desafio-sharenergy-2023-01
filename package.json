@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start_front": "npm start --prefix front",
+    "start_front": "npm start --prefix front-end",
     "start_back": "node index.js",
     "start_dev": "concurrently \"npm run start_back\" \"npm run start_front\"",
     "postinstall": "npm install --prefix front-end"
